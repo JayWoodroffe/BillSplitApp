@@ -33,6 +33,7 @@ class _ResultsState extends State<Results> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.white,
       body: Container(
         alignment: Alignment.center,
         child: Column(
