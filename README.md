@@ -17,11 +17,11 @@ A simple and intuitive bill splitting application built with Flutter. Split expe
 
 ### Main Screen
 
-![Main Screen](./screenshot_main.jpg)
+![Main Screen](screenshots/screenshot_main.jpg)
 
 ### Results Screen
 
-![Results Screen](./screenshot_results.jpg)
+![Results Screen](screenshots/screenshot_results.jpg)
 
 ---
 
