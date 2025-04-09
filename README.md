@@ -1,16 +1,47 @@
-# billsplitterapp
+# BillSplitApp
 
-A new Flutter project.
+A simple and intuitive bill splitting application built with Flutter. Split expenses quickly and fairly with your friends.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Add participants and expenses
+- Automatically calculate who owes what
+- Clean and minimal UI
+- Instant results view
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+### Main Screen
+
+![Main Screen](./screenshot_main.jpg)
+
+### Results Screen
+
+![Results Screen](./screenshot_results.jpg)
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter installed (https://flutter.dev/docs/get-started/install)
+
+### Run the app
+
+```bash
+flutter pub get
+flutter run
+```
+
+## 🛠️ Tech Stack
+- Flutter
+- Dart
+
+## 📄 License
+This project is open source. Feel free to use or contribute!
+
